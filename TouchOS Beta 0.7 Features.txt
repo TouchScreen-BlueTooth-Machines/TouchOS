@@ -1,6 +1,0 @@
-### Updates
-
-- Compatibility
-- Comes with TBM BASIC
-- Command changes
-- CLI changes
