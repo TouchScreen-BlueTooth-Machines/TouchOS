@@ -8,6 +8,7 @@
 | 6.8   |✅ Due 05/04/2024 |
 | 6.7.x   | :x: Since 28/02/2024 |
 | 1.0-6.6 | :x: Since 01/01/2024 |
+| Beta 0.8.x - Beta 0.9.5  | :x: Since 01/10/2019 |
 
 ## Reporting a Vulnerability
 
