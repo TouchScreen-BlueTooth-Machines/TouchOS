@@ -4,7 +4,7 @@
 
 An operating system kernel designed for even the oldest computers!
 
-##End of support
+#End of support
 
 TBM INC has decided to end support for TouchOS, with version 6.9 being the final version. We aim to axe that by 2030.
 
