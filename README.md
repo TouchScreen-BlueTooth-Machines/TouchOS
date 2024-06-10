@@ -2,12 +2,12 @@
 
 ## About
 
-An operating system kernel designed for even the oldest computers!
+An operating system designed for even the oldest computers!
 
-## End of support
+## TouchOS is going places
 
-TBM INC has decided to end support for TouchOS, with version 6.9 being the final version. We aim to axe that by 2030. The extended support and security updates can be found in the Security directory within this repository. Please be sure to read that and report any issues to us if you feel that there is an issue. If you would like an even longer extension, we are willing to extend support even further for the version of TouchOS that you would like. However, this is only for TouchOS 6.71 and over, TouchOS 6.7 and under will recieve no more extensions.
+TouchOS is getting an overhaul in 2025! With the failed attempt at making TouchOS 7 in 2023, TBM Inc has decided to try again, and give TouchOS a brand new look, over and under. The old TouchOS 7 Beta kernel has been replaced with a new and much stabler kernel. More details will be announced in Winter 2024!
 
 ## License
 
-This product is licensed under the [Apache License 2.0](https://github.com/TouchScreen-BlueTooth-Machines/TouchOS/blob/main/LICENSE). © TouchScreen BlueTooth Machines Inc. 1986-2024. All rights reserved.
+This product is licensed under the [Apache License 2.0](https://github.com/TouchScreen-BlueTooth-Machines/TouchOS/blob/main/LICENSE). © TouchScreen BlueTooth Machines Inc. 1997-2024. All rights reserved.
