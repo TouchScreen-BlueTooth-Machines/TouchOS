@@ -6,7 +6,7 @@ An operating system designed for even the oldest computers!
 
 ## TouchOS is going places
 
-TouchOS is getting an overhaul in 2025! With the failed attempt at making TouchOS 7 in 2023, TBM Inc has decided to try again, and give TouchOS a brand new look, over and under. The old TouchOS 7 Beta kernel has been replaced with a new and much stabler kernel. More details will be announced in Winter 2024!
+TouchOS is getting an overhaul in 2025! With the failed attempt at making TouchOS 7 in 2023, TBM Inc has decided to try again, and give TouchOS a brand new look, over and under. The old TouchOS 7 Beta kernel has been replaced with a new and much more stable kernel. More details will be announced in Winter 2024!
 
 ## License
 
